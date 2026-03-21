@@ -31,7 +31,7 @@ Download Bench2Drive dataset from ([LINK](https://github.com/Thinklab-SJTU/Bench
 Run the following command to preprocess data:
 
 ```
-cd adzoo/ofae2e/mmdet3d_plugin/datasets
+cd adzoo/drivetransformer/mmdet3d_plugin/datasets
 python preprocess_bench2drive_drivetransformer.py --workers 16   
 ```
 
