@@ -7,7 +7,7 @@ Download Bench2Drive dataset from ([LINK](https://github.com/Thinklab-SJTU/Bench
 **Notice: some version of data may have slightly different folder structure. You may need to use soft link (ln -s) and change the path related code.**
 
 ```
-    Bench2DriveZoo
+    DriveTransformer
     ├── ...                   
     ├── data/
     |   ├── bench2drive/
