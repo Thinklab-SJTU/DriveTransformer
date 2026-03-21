@@ -38,7 +38,7 @@ python preprocess_bench2drive_drivetransformer.py --workers 16
 The structure of generated data is:
 
 ```
-    Bench2DriveZoo
+    DriveTransformer
     ├── ...
     ├── data/
     |   ├── bench2drive/
